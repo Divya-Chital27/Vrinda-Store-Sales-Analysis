@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing 2022 sales data for Vrinda Store, an e-
 
 ## Dashboard
 
-![Dashboard](vrindadash.png)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 - **Microsoft Excel** — data cleaning, PivotTables, PivotCharts, and dashboard design
@@ -33,11 +33,11 @@ Raw order-level data (~31,000 rows) with fields including Order ID, Customer ID,
 - Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the top 5 revenue-generating states, led by Maharashtra (~2.99M).
 
 **Sales Channels**
-![Channels](vrinda.png)
+![Channels](Channels.png)
 - Amazon (35%) and Myntra (23%) together drive over half of total orders, followed by Flipkart (22%). Meesho, Nalli, and other channels contribute the remaining share.
 
 **Customer Demographics**
-![Men vs Women](vrindamenvswomen.png)
+![Men vs Women](Men vs Women.png)
 - Women account for 64% of total sales vs. 36% for men.
 - Across all age groups, women outspend men — Adult women lead all segments at ~35% of orders, followed by Teenager women (~21%).
 
