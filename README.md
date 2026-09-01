@@ -37,7 +37,7 @@ Raw order-level data (~31,000 rows) with fields including Order ID, Customer ID,
 - Amazon (35%) and Myntra (23%) together drive over half of total orders, followed by Flipkart (22%). Meesho, Nalli, and other channels contribute the remaining share.
 
 **Customer Demographics**
-![Men vs Women](Men_vs_Women..png)
+![Men vs Women](Men_vs_Women.png)
 - Women account for 64% of total sales vs. 36% for men.
 - Across all age groups, women outspend men — Adult women lead all segments at ~35% of orders, followed by Teenager women (~21%).
 
